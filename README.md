@@ -83,7 +83,7 @@ Benchmarking was executed on Apple Silicon hardware across varying levels of PII
 ```bash
 git clone https://github.com/gorisariavivan/llm-privacy-gateway.git
 cd llm-privacy-gateway
-``` 
+```
 
 #### 2. Set Up Virtual Environment & Install Dependencies
 
