@@ -79,6 +79,7 @@ Benchmarking was executed on Apple Silicon hardware across varying levels of PII
 - `pip` package manager
 
 #### 1. Clone the Repository
+
 ```bash
 git clone https://github.com/gorisariavivan/llm-privacy-gateway.git
 cd llm-privacy-gateway
